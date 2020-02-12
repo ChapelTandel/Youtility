@@ -1,0 +1,10 @@
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\bin\Debug\YoutilityTest.exe.config
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\bin\Debug\YoutilityTest.exe
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\bin\Debug\YoutilityTest.pdb
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\bin\Debug\RestSharp.dll
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\bin\Debug\RestSharp.xml
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\obj\Debug\YoutilityTest.csprojResolveAssemblyReference.cache
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\obj\Debug\YoutilityTest.exe
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\obj\Debug\YoutilityTest.pdb
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\chapel\documents\visual studio 2015\Projects\YoutilityTest\YoutilityTest\bin\Debug\Newtonsoft.Json.xml
